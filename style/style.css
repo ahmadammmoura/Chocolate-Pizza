@@ -19,7 +19,7 @@
 .logo h1 {
     position: absolute;
     top: 15px;
-    left: 70px;
+    left: 75px;
     font-size: 40px;
     font-family: 'Pacifico', cursive;
 }
@@ -27,7 +27,7 @@
 .logo p {
     position: absolute;
     top: 55px;
-    left: 70px;
+    left: 75px;
     font-size: 15px;
     /* font-family: 'Pacifico', cursive; */
 }
@@ -50,7 +50,7 @@
 .line {
     margin-top: 70px;
     width: 100%;
-    background: url("/img/hr-img.png") repeat-x;
+    background: url("./img/hr-img.png") repeat-x;
     background-size: 4px 20px;
 }
 
